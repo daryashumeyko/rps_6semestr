@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: naito
+Build-Jdk: 1.8.0_191
+Class-Path: javaee-api-7.0.jar javax.mail-1.5.0.jar activation-1.1.jar m
+ ysql-connector-java-8.0.15.jar protobuf-java-3.6.1.jar
+
