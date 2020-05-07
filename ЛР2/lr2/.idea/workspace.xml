@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ear:ear exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7e0c698-d7af-4e22-8fef-db23b4d4fcf9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Zffvqmit7M5GLVLw7ju2WALtOh" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554227645802" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GlassFish 5.0.0" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.0" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/lr1" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ear:ear exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ear:ear exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7e0c698-d7af-4e22-8fef-db23b4d4fcf9" name="Default Changelist" comment="" />
+      <created>1554226935424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554226935424</updated>
+      <workItem from="1554226937086" duration="708000" />
+      <workItem from="1585235309727" duration="1017000" />
+      <workItem from="1588845247441" duration="577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="255" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585235368409">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="255" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1603.862@0.0.1603.862" timestamp="1585235368409" />
+    <state width="508" height="223" key="GridCell.Tab.0.bottom" timestamp="1585236328084">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="508" height="223" key="GridCell.Tab.0.bottom/0.0.1603.862@0.0.1603.862" timestamp="1585236328084" />
+    <state width="508" height="223" key="GridCell.Tab.0.center" timestamp="1585236328084">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="508" height="223" key="GridCell.Tab.0.center/0.0.1603.862@0.0.1603.862" timestamp="1585236328084" />
+    <state width="508" height="223" key="GridCell.Tab.0.left" timestamp="1585236328084">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="508" height="223" key="GridCell.Tab.0.left/0.0.1603.862@0.0.1603.862" timestamp="1585236328084" />
+    <state width="508" height="223" key="GridCell.Tab.0.right" timestamp="1585236328084">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="508" height="223" key="GridCell.Tab.0.right/0.0.1603.862@0.0.1603.862" timestamp="1585236328084" />
+    <state width="508" height="223" key="GridCell.Tab.1.bottom" timestamp="1585236328084">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="508" height="223" key="GridCell.Tab.1.bottom/0.0.1603.862@0.0.1603.862" timestamp="1585236328084" />
+    <state width="508" height="223" key="GridCell.Tab.1.center" timestamp="1585236328084">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="508" height="223" key="GridCell.Tab.1.center/0.0.1603.862@0.0.1603.862" timestamp="1585236328084" />
+    <state width="508" height="223" key="GridCell.Tab.1.left" timestamp="1585236328084">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="508" height="223" key="GridCell.Tab.1.left/0.0.1603.862@0.0.1603.862" timestamp="1585236328084" />
+    <state width="508" height="223" key="GridCell.Tab.1.right" timestamp="1585236328084">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="508" height="223" key="GridCell.Tab.1.right/0.0.1603.862@0.0.1603.862" timestamp="1585236328084" />
+    <state x="281" y="4" key="SettingsEditor" timestamp="1585235375028">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="281" y="4" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1585235375028" />
+    <state x="328" y="76" key="new project wizard" timestamp="1588845474242">
+      <screen x="73" y="0" width="1463" height="864" />
+    </state>
+    <state x="328" y="76" key="new project wizard/73.0.1463.864@73.0.1463.864" timestamp="1588845474242" />
+  </component>
+</project>
